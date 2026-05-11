@@ -3,7 +3,11 @@
 This Read Me file contains the manual and explanation for how our application works.
 
 **LINKS FOR USE:**
+**The below link is of the original repository created by Aaliyah Allie:**
+https://github.com/AaliyahAllie/BudgetMadnessPortfolioOfEvidence2025.git
 
+**The below link is a repository of all the contributors and activity of the main project( A second repository was created separately by Aaliyah to finalize any final changes, hence the above link.):**
+https://github.com/AaliyahAllie/budgetMadness.git
 **GITHUB:**
 https://github.com/AaliyahAllie/BudgetMadnessPortfolioOfEvidence2025.git
 
